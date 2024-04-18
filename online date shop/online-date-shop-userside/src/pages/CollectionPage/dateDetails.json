@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Medjool",
+    "image": "https://i.ibb.co/vk562CV/medjool.jpg",
+    "description": "Medjool dates are known for their large size, sweet taste, and caramel-like flavor. They are often referred to as the 'king of dates' due to their luxurious texture and rich taste. Originating from Morocco, Medjool dates have a dark brown color and are prized for their succulent flesh. These dates are perfect for snacking on their own, adding to desserts, or pairing with cheese and nuts for a gourmet treat."
+  },
+  {
+    "name": "Deglet Noor",
+    "image": "https://i.ibb.co/TgqvzMf/deglet-noor.webp",
+    "description": "Deglet Noor dates are semi-dry with a firm texture and a nutty taste. Originating from Tunisia, they are light brown in color and have a medium size. Deglet Noor dates are versatile and can be enjoyed in various ways. They make a delicious addition to salads, baked goods, or enjoyed as a healthy snack. Their slightly drier texture makes them perfect for stuffing with nuts or cheese for an appetizer."
+  },
+  {
+    "name": "Barhi",
+    "image": "https://i.ibb.co/9GSHHkf/barhi.jpg",
+    "description": "Barhi dates are known for their soft and creamy texture, along with their honey-like flavor. Originating from Iraq, Barhi dates have a vibrant yellow color and are relatively small in size. These dates are often enjoyed fresh or used in desserts and smoothies. Their sweet and rich flavor profile pairs well with savory ingredients like bacon or cheese, making them a versatile addition to any dish."
+  },
+  {
+    "name": "Halawi",
+    "image": "https://i.ibb.co/qNJtKSK/halawi.webp",
+    "description": "Halawi dates are characterized by their soft, amber-colored flesh and caramel-like sweetness. Originating from the Middle East, Halawi dates have a medium size and are prized for their delicious flavor. These dates are perfect for snacking on their own or incorporating into desserts and baked goods. Their soft texture makes them easy to blend into smoothies or puree for sauces and dressings."
+  },
+  {
+    "name": "Thoory",
+    "image": "https://i.ibb.co/3pLY4fk/thoory.jpg",
+    "description": "Thoory dates are dry, mildly sweet, and chewy in texture. Originating from the United States, Thoory dates have a light brown color and are large in size. These dates are often enjoyed as a natural sweetener in recipes or eaten as a snack. Their chewy texture makes them ideal for adding to trail mixes or energy bars for a boost of natural energy."
+  },
+  {
+    "name": "Dayri",
+    "image": "https://i.ibb.co/drnMQJJ/dayri.webp",
+    "description": "Dayri dates are very soft and syrupy in texture, with a rich and intense flavor. Originating from Saudi Arabia, Dayri dates have a dark brown color and a medium size. These dates are prized for their luxurious taste and are often enjoyed fresh or used in desserts and confections. Their syrupy texture makes them perfect for blending into smoothies or pureeing for sauces and dips."
+  },
+  {
+    "name": "Zahidi",
+    "image": "https://i.ibb.co/HCFJ6Pn/zahidi.png",
+    "description": "Zahidi dates are semi-dry with a mildly sweet flavor. Originating from Iran, Zahidi dates have a golden yellow color and a medium size. These dates are versatile and can be enjoyed in various ways. They make a delicious addition to salads, baked goods, or enjoyed on their own as a healthy snack. Their slightly drier texture makes them perfect for stuffing with nuts or cheese for an appetizer."
+  },
+  {
+    "name": "Empress",
+    "image": "https://i.ibb.co/8bJtyd8/empress.jpg",
+    "description": "Empress dates are firm and sweet with a caramel-like flavor. Originating from the United States, Empress dates have a light brown color and a medium size. These dates are perfect for snacking on their own or adding to desserts and baked goods. Their firm texture makes them ideal for stuffing with nuts or cheese for a savory appetizer or blending into smoothies for a natural sweetener."
+  },
+  {
+    "name": "Fard",
+    "image": "https://i.ibb.co/DLLg8Jn/fard.webp",
+    "description": "Fard dates are sweet and slightly chewy in texture. Originating from Iran, Fard dates have a light brown color and a medium size. These dates are often enjoyed as a natural sweetener in recipes or eaten as a snack. Their chewy texture makes them ideal for adding to trail mixes or energy bars for a boost of natural energy."
+  },
+  {
+    "name": "Black Sphinx",
+    "image": "https://i.ibb.co/rtvBMB0/black-sphinx.jpg",
+    "description": "Black Sphinx dates are dark, soft, and intensely sweet. Originating from the United States, Black Sphinx dates have a dark brown color and a small size. These dates are prized for their rich flavor and are often enjoyed fresh or used in desserts and confections. Their soft texture makes them perfect for blending into smoothies or pureeing for sauces and dressings."
+  },
+  {
+    "name": "Honey",
+    "image": "https://i.ibb.co/TtL8QGP/honey.jpg",
+    "description": "Honey dates are extra sweet with a honey-like flavor. Originating from Israel, Honey dates have a light yellow color and a medium size. These dates are perfect for snacking on their own or adding to desserts and baked goods. Their sweet and juicy flesh makes them ideal for blending into smoothies or pureeing for sauces and dressings."
+  },
+  {
+    "name": "Khadrawy",
+    "image": "https://i.ibb.co/31R9JMx/khadrawy.jpg",
+    "description": "Khadrawy dates are soft, caramel-like, and rich in flavor. Originating from Egypt, Khadrawy dates have an amber color and a medium size. These dates are prized for their luxurious taste and are often enjoyed fresh or used in desserts and confections. Their soft texture makes them perfect for blending into smoothies or pureeing for sauces and dressings."
+  }
+]

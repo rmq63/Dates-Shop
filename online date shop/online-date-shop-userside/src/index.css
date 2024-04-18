@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Override Ant Design primary button color */
+.ant-btn-primary {
+  background-color: #000000;
+  color: white;
+}
+
+/* Override Ant Design primary button color on hover */
+.ant-btn-primary:hover {
+  background-color: #000000;
+  color: white;
+}

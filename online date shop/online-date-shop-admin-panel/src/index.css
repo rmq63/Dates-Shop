@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* root css */
+@layer base {
+
+  *,
+  *::before,
+  *::after {
+
+    box-sizing: inherit;
+  }
+
+  html {
+    font-size: 14px;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply font-body-font;
+    -ms-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  input,
+  select,
+  button,
+  textarea,
+  a {
+    border-radius: 6px !important;
+    -webkit-appearance: none;
+  }
+
+
+  .myButton {
+    padding: 12px 24px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.3s;
+    color: #333;
+    border: 2px solid #333;
+    border-radius: 8px;
+    display: inline-block;
+  }
+
+  .myButton:hover {
+    background-color: #333;
+    color: #fff;
+  }
+
+
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "type": "Medjool",
+    "description": "Large, sweet, and caramel-flavored.",
+    "origin": "Morocco",
+    "color": "Dark brown",
+    "size": "Large",
+    "price": 12.99,
+    "image": "https://i.ibb.co/vk562CV/medjool.jpg"
+  },
+  {
+    "id": 2,
+    "type": "Deglet Noor",
+    "description": "Semi-dry with a firm texture and a nutty taste.",
+    "origin": "Tunisia",
+    "color": "Light brown",
+    "size": "Medium",
+    "price": 9.49,
+    "image": "https://i.ibb.co/TgqvzMf/deglet-noor.webp"
+  },
+  {
+    "id": 3,
+    "type": "Barhi",
+    "description": "Soft and creamy with a honey-like flavor.",
+    "origin": "Iraq",
+    "color": "Yellow",
+    "size": "Small",
+    "price": 8.99,
+    "image": "https://i.ibb.co/9GSHHkf/barhi.jpg"
+  },
+  {
+    "id": 4,
+    "type": "Halawi",
+    "description": "Soft, amber-colored, and caramel-sweet.",
+    "origin": "Middle East",
+    "color": "Amber",
+    "size": "Medium",
+    "price": 10.99,
+    "image": "https://i.ibb.co/qNJtKSK/halawi.webp"
+  },
+  {
+    "id": 5,
+    "type": "Thoory",
+    "description": "Dry, mildly sweet, and chewy.",
+    "origin": "United States",
+    "color": "Light brown",
+    "size": "Large",
+    "price": 7.99,
+    "image": "https://i.ibb.co/3pLY4fk/thoory.jpg"
+  },
+  {
+    "id": 6,
+    "type": "Dayri",
+    "description": "Very soft and syrupy with a rich flavor.",
+    "origin": "Saudi Arabia",
+    "color": "Dark brown",
+    "size": "Medium",
+    "price": 11.49,
+    "image": "https://i.ibb.co/drnMQJJ/dayri.webp"
+  },
+  {
+    "id": 7,
+    "type": "Zahidi",
+    "description": "Semi-dry and mildly sweet.",
+    "origin": "Iran",
+    "color": "Golden yellow",
+    "size": "Medium",
+    "price": 9.99,
+    "image": "https://i.ibb.co/HCFJ6Pn/zahidi.png"
+  },
+  {
+    "id": 8,
+    "type": "Empress",
+    "description": "Firm and sweet with a caramel-like flavor.",
+    "origin": "United States",
+    "color": "Light brown",
+    "size": "Medium",
+    "price": 8.79,
+    "image": "https://i.ibb.co/8bJtyd8/empress.jpg"
+  },
+  {
+    "id": 9,
+    "type": "Fard",
+    "description": "Sweet and slightly chewy.",
+    "origin": "Iran",
+    "color": "Light brown",
+    "size": "Medium",
+    "price": 9.29,
+    "image": "https://i.ibb.co/DLLg8Jn/fard.webp"
+  },
+  {
+    "id": 10,
+    "type": "Black Sphinx",
+    "description": "Dark, soft, and intensely sweet.",
+    "origin": "United States",
+    "color": "Dark brown",
+    "size": "Small",
+    "price": 13.49,
+    "image": "https://i.ibb.co/rtvBMB0/black-sphinx.jpg"
+  },
+  {
+    "id": 11,
+    "type": "Honey",
+    "description": "Extra sweet with a honey-like flavor.",
+    "origin": "Israel",
+    "color": "Light yellow",
+    "size": "Medium",
+    "price": 10.99,
+    "image": "https://i.ibb.co/TtL8QGP/honey.jpg"
+  },
+  {
+    "id": 12,
+    "type": "Khadrawy",
+    "description": "Soft, caramel-like, and rich in flavor.",
+    "origin": "Egypt",
+    "color": "Amber",
+    "size": "Medium",
+    "price": 11.99,
+    "image": "https://i.ibb.co/31R9JMx/khadrawy.jpg"
+  }
+]
